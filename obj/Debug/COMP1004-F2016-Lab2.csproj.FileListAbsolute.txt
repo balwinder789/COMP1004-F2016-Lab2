@@ -1,0 +1,11 @@
+c:\users\balwinder\documents\visual studio 2015\Projects\COMP1004-F2016-Lab2\COMP1004-F2016-Lab2\bin\Debug\COMP1004-F2016-Lab2.exe.config
+c:\users\balwinder\documents\visual studio 2015\Projects\COMP1004-F2016-Lab2\COMP1004-F2016-Lab2\bin\Debug\COMP1004-F2016-Lab2.exe
+c:\users\balwinder\documents\visual studio 2015\Projects\COMP1004-F2016-Lab2\COMP1004-F2016-Lab2\bin\Debug\COMP1004-F2016-Lab2.pdb
+c:\users\balwinder\documents\visual studio 2015\Projects\COMP1004-F2016-Lab2\COMP1004-F2016-Lab2\obj\Debug\COMP1004-F2016-Lab2.csprojResolveAssemblyReference.cache
+c:\users\balwinder\documents\visual studio 2015\Projects\COMP1004-F2016-Lab2\COMP1004-F2016-Lab2\obj\Debug\COMP1004_F2016_Lab2.initialForm.resources
+c:\users\balwinder\documents\visual studio 2015\Projects\COMP1004-F2016-Lab2\COMP1004-F2016-Lab2\obj\Debug\COMP1004_F2016_Lab2.Properties.Resources.resources
+c:\users\balwinder\documents\visual studio 2015\Projects\COMP1004-F2016-Lab2\COMP1004-F2016-Lab2\obj\Debug\COMP1004_F2016_Lab2.SecondForm.resources
+c:\users\balwinder\documents\visual studio 2015\Projects\COMP1004-F2016-Lab2\COMP1004-F2016-Lab2\obj\Debug\COMP1004_F2016_Lab2.splashScreen.resources
+c:\users\balwinder\documents\visual studio 2015\Projects\COMP1004-F2016-Lab2\COMP1004-F2016-Lab2\obj\Debug\COMP1004-F2016-Lab2.csproj.GenerateResource.Cache
+c:\users\balwinder\documents\visual studio 2015\Projects\COMP1004-F2016-Lab2\COMP1004-F2016-Lab2\obj\Debug\COMP1004-F2016-Lab2.exe
+c:\users\balwinder\documents\visual studio 2015\Projects\COMP1004-F2016-Lab2\COMP1004-F2016-Lab2\obj\Debug\COMP1004-F2016-Lab2.pdb
